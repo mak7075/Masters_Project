@@ -1,0 +1,9 @@
+
+Total networks analyzed: 49
+Number of vulnerable networks: 14
+- Open: 14
+
+Recommendations:
+- Upgrade encryption to WPA3 or higher.
+- Disable SSID broadcasting for privacy.
+- Implement MAC address randomization.
